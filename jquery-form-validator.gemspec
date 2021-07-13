@@ -22,7 +22,7 @@ those functions that's needed to validate a particular form.}
   gem.require_paths = ["lib"]
 
   gem.add_dependency "thor", "~> 0.20"
-  gem.add_dependency "railties", ">= 3.2", "< 6.0"
+  gem.add_dependency "railties", ">= 3.2", "< 7.0"
 
   gem.add_development_dependency "bundler", "~> 1.0"
 end
